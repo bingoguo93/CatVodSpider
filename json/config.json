@@ -29,7 +29,7 @@
       "searchable": "0",
       "filterable": "1",
       "changeable": 0,
-      "ext": "http://192.168.31.102:5678/tvbox/my.json"
+      "ext": "http://xiaoya.host:5678"
     },
     {
       "key": "PanSou",
