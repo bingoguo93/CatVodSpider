@@ -29,7 +29,13 @@
       "searchable": "0",
       "filterable": "1",
       "changeable": 0,
-      "ext": "http://xiaoya.host:5678"
+      "ext": {
+           "drives":
+           {
+           "name": "小雅",
+           "server": "http://xiaoya.host:5678"
+           }
+      }
     },
     {
       "key": "PanSou",
